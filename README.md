@@ -10,9 +10,9 @@ You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustineXp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Justine's GitHub Stats" />
 </a>
 
-<a href="https://github.com/JustineXp">
+<!-- <a href="https://github.com/JustineXp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustineXp&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+</a> -->
 
 
 
