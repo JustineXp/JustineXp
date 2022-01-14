@@ -6,7 +6,7 @@
 You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 <h2 align="center">You can reach me at <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauro-mayaka-a56050180) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mj.sauro/)![Twitter Follow](https://img.shields.io/twitter/follow/Developersjoint?logo=twitter&style=for-the-badge)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauro-mayaka-a56050180) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mj.sauro/) ![Twitter Follow](https://img.shields.io/twitter/follow/Developersjoint?logo=twitter&style=for-the-badge)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustineXp)](https://github.com/anuraghazra/github-readme-stats) -->
 
