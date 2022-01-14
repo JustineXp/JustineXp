@@ -1,3 +1,4 @@
+<a target="blank" href="https://profile-counter.glitch.me/JustineXp/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/JustineXp/count.svg" /></a>
 ### Hi there 👋 I'm Justine.
 
 ### Connect with me
