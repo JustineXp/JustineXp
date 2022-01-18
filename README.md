@@ -1,7 +1,7 @@
 <a target="blank" href="https://profile-counter.glitch.me/JustineXp/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/JustineXp/count.svg" /></a>
 ### Hi there 👋 I'm Justine.
 
-### Connect with me
+<!-- ### Connect with me -->
 
 <!-- You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2]. -->
 <h2 align="center">You can reach me at <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
