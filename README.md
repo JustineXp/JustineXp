@@ -1,5 +1,6 @@
 <a target="blank" href="https://profile-counter.glitch.me/JustineXp/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/JustineXp/count.svg" /></a>
-### Hello! My name is Justine and I am a software developer and i enjoy creating internet related things and applications.
+### Hello! My name is Justine.
+I am a software developer and i enjoy creating internet related things and applications.
 
 <!-- ### Connect with me -->
 
