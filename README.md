@@ -21,6 +21,10 @@ You can reach me at :
 </a>
 
 
+#### Github Stats
+![Justine's GitHub stats](https://streakingman-github-readme-stats.vercel.app/api?username=JustineXp&show_icons=true&show_icons=true&count_private=true&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
+
+
 
 
 
