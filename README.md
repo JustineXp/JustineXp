@@ -1,6 +1,6 @@
 <a target="blank" href="https://profile-counter.glitch.me/JustineXp/count.svg"><img src="https://profile-counter.glitch.me/JustineXp/count.svg" /></a>
 ### Hello! 👋
-My name is Justine.
+My name is Justine.<br>
 I am a software developer and i enjoy creating<br>internet related things and applications.
 
 You can reach me at :
