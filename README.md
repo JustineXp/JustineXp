@@ -16,13 +16,7 @@ You can reach me at :
 </a>
 
 
-<a href="https://github.com/JustineXp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustineXp&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-
-#### Github Stats
-![Justine's GitHub stats](https://streakingman-github-readme-stats.vercel.app/api?username=JustineXp&show_icons=true&show_icons=true&count_private=true&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
+![Justine's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=JustineXp&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
 
 
 
