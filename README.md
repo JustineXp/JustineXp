@@ -7,7 +7,7 @@ I am a software developer and i enjoy creating<br>internet related things and ap
 
 You can reach me at :
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauro-mayaka-a56050180) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mj.sauro/) ![Twitter](https://img.shields.io/twitter/follow/Developersjoint?logo=twitter&style=for-the-badge)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauromayaka) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mj.sauro/) ![Twitter](https://img.shields.io/twitter/follow/Developersjoint?logo=twitter&style=for-the-badge)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustineXp)](https://github.com/anuraghazra/github-readme-stats) -->
 
