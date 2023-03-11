@@ -3,7 +3,7 @@
 
 ### Hello! 👋
 My name is Justine.<br>
-I am a software developer and i enjoy creating<br>internet related things and applications.
+I am a software developer and i enjoy creating<br>internet related things and applications.<br>
 I am also a CyberSecurity Enthusiast
 
 You can reach me at :
